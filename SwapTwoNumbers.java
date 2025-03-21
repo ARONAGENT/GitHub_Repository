@@ -1,6 +1,6 @@
 public class SwapTwoNumbers{
 public static void main(String[] args) {
-        int a = 10, b = 20;
+        int a = 20, b = 10;
         System.out.println("Before swapping: a = " + a + ", b = " + b);
         
         // Swapping using a temporary variable
